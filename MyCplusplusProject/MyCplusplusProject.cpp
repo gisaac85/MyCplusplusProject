@@ -19,5 +19,5 @@ TEST_CASE("Second Test Case")
 
 TEST_CASE("Third Test Case")
 {
-	REQUIRE(1/1 == 1);
+	REQUIRE(3/1 == 1);
 }
